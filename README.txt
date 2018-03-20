@@ -9,3 +9,6 @@
 # SystemBarTintManager 沉浸式状态栏 工具类
 # ToastUtils    吐司工具类
 # ZipUtils     压缩工具类
+# HanziToPinyin  汉语拼音工具类  HanziToPinyin.getPinYin("汉子")
+# MD5
+# TimeUtils     年月日 时分秒 转换
