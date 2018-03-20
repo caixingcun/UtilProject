@@ -2,7 +2,7 @@
  * Copyright (C) 2010-2016 Softtek Information Systems (Wuxi) Co.Ltd.
  * Date:2016-03-31
  */
-package com.example.caixingcun.utilproject.util;
+package com.example.caixingcun.utilproject.data_util;
 
 import android.content.Context;
 import android.graphics.Bitmap;
